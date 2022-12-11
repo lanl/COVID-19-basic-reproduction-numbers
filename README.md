@@ -5,7 +5,7 @@ This folder serves as supplementary material for the following preprint on medRx
 
 Differential contagiousness of respiratory disease across the United States. Abhishek Mallela, Yen Ting Lin, and William S. Hlavacek.
 
-[DataS1](https://github.com/lanl/COVID-19-basic-reproduction-numbers/blob/main/DataS1.zip) - Model, data, and configuration files required to perform model parameterization for each of the 280 MSAs in PyBioNetFit
+[DataS1.zip](https://github.com/lanl/COVID-19-basic-reproduction-numbers/blob/main/DataS1.zip) - Model, data, and configuration files required to perform model parameterization for each of the 280 MSAs in PyBioNetFit
 
 ## Notes
 
